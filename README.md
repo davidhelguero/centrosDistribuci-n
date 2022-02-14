@@ -1,4 +1,4 @@
-# centrosDistribuci-n
+# centrosDistribucion
 Este programa tiene como funcionalidad mostrarle al usuario los centros de distribución que debe abrir generando el menor costo, teniendo en cuenta los centros y clientes que ingresa anteriormente con sus latitudes y longitudes.
 
 Está compuesto por una clase de interfaz llamada CargaDeDatos y tres clases de negocio: Localizacion, CostoPorCentro y Entidad (con sus respectivos tests) que serán comentadas a continuación.
